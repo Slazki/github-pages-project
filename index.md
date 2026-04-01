@@ -4,12 +4,12 @@
 - [Favorite Language](#favorite-language)
 - [Quote](#quote)
 - [View README](README.md)
-- [Picture](#Picture)
+- [Picture](#picture)
 
 # Fahad Majidi
 
 ## Picture
-[View my image](image.jpg)
+![My Image](image.jpg)
 
 ## About Me
 *I am a Computer Science student at UCSD interested in cybersecurity and AI.*
@@ -36,3 +36,8 @@ print("Hello World")
 ## Tasks
 - [x] Learn Git
 - [ ] Build projects
+
+## Goals
+1. Learn Git
+2. Build projects
+3. Improve coding skills
