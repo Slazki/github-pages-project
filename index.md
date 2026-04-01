@@ -1,7 +1,7 @@
 # Fahad Majidi
 
 ## About Me
-I am a Computer Science student at UCSD interested in cybersecurity and AI.
+*I am a Computer Science student at UCSD interested in cybersecurity and AI.*
 
 ## Skills
 *- Java*
