@@ -4,8 +4,12 @@
 - [Favorite Language](#favorite-language)
 - [Quote](#quote)
 - [View README](README.md)
+- [Picture](#Picture)
 
 # Fahad Majidi
+
+## Picture
+[View my image](image.png)
 
 ## About Me
 *I am a Computer Science student at UCSD interested in cybersecurity and AI.*
