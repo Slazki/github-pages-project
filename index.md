@@ -1,3 +1,10 @@
+## Navigation
+- [About Me](#about-me)
+- [Skills](#skills)
+- [Favorite Language](#favorite-language)
+- [Quote](#quote)
+- [View README](README.md)
+
 # Fahad Majidi
 
 ## About Me
