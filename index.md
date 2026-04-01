@@ -4,9 +4,9 @@
 I am a Computer Science student at UCSD interested in cybersecurity and AI.
 
 ## Skills
-- Java
-- Python
-- C++
+*- Java*
+*- Python*
+*- C++*
 
 ## Favorite Language
 My favorite language is Python.
