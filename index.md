@@ -9,7 +9,7 @@
 # Fahad Majidi
 
 ## Picture
-[View my image](image.png)
+[View my image](image.jpg)
 
 ## About Me
 *I am a Computer Science student at UCSD interested in cybersecurity and AI.*
